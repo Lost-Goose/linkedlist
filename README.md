@@ -1,5 +1,5 @@
 # LinkedList
 
-Assignment for collefe to Make a Linked List and perform certain actions using C++
+Assignment for college to make a Linked List and perform certain actions using C++
 
 Works Perfectly 
